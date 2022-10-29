@@ -22,7 +22,7 @@ function App() {
 
 
 
-/********************  INPUT CHANGE FUNCTION HERE   *****************/
+/********************  INPUT CHANGE FUNCTION HERE   ******************/
 
   
 function handleChange(event)

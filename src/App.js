@@ -22,7 +22,7 @@ function App() {
 
 
 
-/********************  INPUT CHANGE FUNCTION HERE   ******************/
+/********************  INPUT CHANGE FUNCTION HERE   *git stat*****************/
 
   
 function handleChange(event)
@@ -32,7 +32,7 @@ function handleChange(event)
     
   }
 
-  /********************  ADD FUNCTION HERE   *****************/
+  /********************  ADD FUNCTION   *****************/
 
   function handleAdd()
   {
@@ -41,7 +41,7 @@ function handleChange(event)
             setInput('')
   }
 
-  /********************  DELETE FUNCTION HERE   *****************/
+  /********************  DELETE FUNCTION *****************/
 
   function handleDelete(id)
   {
@@ -50,7 +50,7 @@ function handleChange(event)
     setList(updated)
     }
     
-/********************  EDIT FUNCTION HERE   *****************/
+/********************  EDIT FUNCTION   *****************/
 
     function handleEdit(removedObj)
     {
@@ -61,7 +61,7 @@ function handleChange(event)
     
     }
   
-/********************  CLEAR FUNCTION HERE   *****************/
+/********************  CLEAR FUNCTION    *****************/
 
 function handleClear()
 {

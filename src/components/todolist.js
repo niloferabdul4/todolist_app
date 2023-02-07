@@ -4,9 +4,7 @@ import {RiDeleteBinLine} from 'react-icons/ri'
 import {GrEdit} from 'react-icons/gr'
 
 
-const Todolist = ({list,deleteFn,editFn}) => {
-
-  
+const Todolist = ({list,deleteFn,editFn}) => {  
     return(
         <section>
                     {list.map(n=>{return( 

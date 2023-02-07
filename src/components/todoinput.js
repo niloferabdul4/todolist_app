@@ -2,8 +2,7 @@ import React from 'react';
 
 const Todoinput = ({input,changeFn,addFn}) => {
     return (
-        <div className='input_container'>
-           
+        <div className='input_container'>          
 
                  <input type='text'
                         placeholder='Enter a to do..' 
